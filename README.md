@@ -1,4 +1,4 @@
-# data
+# data table with vuejs
 
 ## Project setup
 ```
